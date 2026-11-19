@@ -47,3 +47,5 @@
 * **POPPY**: Physical optics propagation (Fresnel/Fraunhofer) in Python, the engine underlying STPSF. [Github](https://github.com/spacetelescope/poppy) [Docs](https://poppy-optics.readthedocs.io/)
 * **HCIPy**: Framework for simulating high-contrast imaging systems, including optics propagation, coronagraphs, and adaptive optics. [Github](https://github.com/ehpor/hcipy) [Docs](https://hcipy.org/)
 
+## Other
+* **occurrence-rate-plot**: Logan Pearce's mass vs semi-major axis plot with occurrence rates from existing surveys marked. [Github](https://github.com/logan-pearce/occurrence-rate-plot)
