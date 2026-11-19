@@ -16,6 +16,8 @@
 * **Species Model List**: List of publicly available atmospheric and evolutionary model grids used by the species repository. [Link](https://species.readthedocs.io/en/latest/data.html)  
 * **Sonora Flame Skimmer**: Not yet in species, for cool substellar objects. [Link](https://zenodo.org/records/20030439)
 * **Stellar Color-Temperature Sequence**: Table of stellar effective temperatures and colors for main sequence stars, from Pecaut & Mamajek (2013). [Link](https://www.pas.rochester.edu/~emamajek/EEM_dwarf_UBVIJHK_colors_Teff.txt)
+* **ExoMol Database**: Molecular line lists for exoplanet and brown dwarf atmospheres. [Link](https://exomol.com/databases/)
+* **HITRAN Database**: High-resolution transmission molecular absorption database. [Link](https://hitran.org/)
 
 ## Figures
 * **occurrence-rate-plot**: Logan Pearce's mass vs semi-major axis plot with occurrence rates from existing surveys marked. [Github](https://github.com/logan-pearce/occurrence-rate-plot)

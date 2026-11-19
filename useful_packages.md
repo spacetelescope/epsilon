@@ -1,7 +1,6 @@
 # Useful Packages and Software for Exoplanet High Contrast Imaging
 
 
-
 ## Coronagraphy
 
 * **SpaceKLIP**: The core community package for JWST coronagraph data processing for NIRCam and MIRI. [Github](https://github.com/spacetelescope/spaceKLIP) [Docs](https://spaceklip.readthedocs.io/en/latest/)
@@ -26,6 +25,8 @@
 * **species**: Toolkit for atmospheric characterization of directly imaged planets and brown dwarfs, including model grids, retrievals, and photometry/spectra handling. [Github](https://github.com/tomasstolker/species) [Docs](https://species.readthedocs.io/)
 * **MADYS**: Toolit for isochronal fitting, age/mass estimation, detection probability map estimates. [Github](https://github.com/vsquicciarini/madys) [Docs](https://madys.readthedocs.io/en/latest/)
 * **spectres**: Resampling of spectra onto a new wavelength grid. [Github](https://github.com/ACCarnall/SpectRes) [Docs](https://spectres.readthedocs.io/en/latest/)
+* **picaso**: Modelling and retrieval suite for exoplanet atmospehres [Github](https://github.com/natashabatalha/picaso) [Docs](https://natashabatalha.github.io/picaso/)
+* **petitRADTRANS**: Package for calculating spectra of exoplanets and for running retrievals.[Github](https://github.com/nborsato/petitRADTRANS) [Docs](https://petitradtrans.readthedocs.io/en/latest/)
 
 ## Orbits and Dynamics
 
