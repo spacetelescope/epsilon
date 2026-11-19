@@ -49,3 +49,4 @@
 
 ## Other
 * **occurrence-rate-plot**: Logan Pearce's mass vs semi-major axis plot with occurrence rates from existing surveys marked. [Github](https://github.com/logan-pearce/occurrence-rate-plot)
+* **WHIPPOT**: A tool for simulating JWST observing scenes and planning position angles and offsets. Some example notebooks are found in the [observation_planning](observation_planning) folder, with more available on the github. [Github](https://github.com/STScI-MIRI/whippot)
