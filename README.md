@@ -9,6 +9,5 @@ installable package.
 
 ## General Guidelines
 - Submission and use of notebooks and scripts is open to all members of the EPSIG.
-- Notebooks and scripts should be contained in a subdirectory with a descriptive name, 
-and should include a README.md file that describes the purpose of the notebook or script, the lead author, as well as any dependencies or requirements for running it.
+- Notebooks and scripts should be contained in a subdirectory with a descriptive name, and should include some description of use in a README.md or directly in the notebook.
 - Maintenance of notebooks and scripts will be performed on a best-effort basis. If you have questions or issues, contact the lead author of the notebook or script you are trying to use.
