@@ -8,7 +8,7 @@
 * **pyKLIP**: Python implementation of KLIP/PCA-based PSF subtraction (ADI/RDI/SDI) and forward modeling, used as the engine within SpaceKLIP. [Source](https://bitbucket.org/pyKLIP/pyklip) [Docs](https://pyklip.readthedocs.io/)
 * **PanCake**: The Pandeia Coronagraphy Extension, for exposure time calculations and simulated scenes for JWST coronagraphic observations. [Github](https://github.com/spacetelescope/pandeia-coronagraphy) [Docs](https://github.com/spacetelescope/pandeia-coronagraphy#readme)
 * **applefy**: Tools for detection limits, contrast curves, and false-positive fraction analysis of high-contrast imaging data, with PSF subtraction by PCA. [Github](https://github.com/markusbonse/applefy) [Docs](https://applefy.readthedocs.io/)
-
+* **pyFLIP**: Python implementation of FLIP ((Ph)ysics-based Learning for Imaging Planets). Under development as of Nov 2026 [Github](https://github.com/rferrerc/pyflip)
 
 ## Imaging Spectroscopy
 
@@ -21,11 +21,11 @@
 * **ExoGRAVITY**: Data reduction code for extracting astrometry and spectra of exoplanets from VLTI/GRAVITY interferometric observations. [Source](https://gitlab.obspm.fr/mnowak/exoGravity) [Docs](https://github.com/wbalmer/exogravity#readme)
 
 
-
 ## Atmospheres and Modeling
 
 * **species**: Toolkit for atmospheric characterization of directly imaged planets and brown dwarfs, including model grids, retrievals, and photometry/spectra handling. [Github](https://github.com/tomasstolker/species) [Docs](https://species.readthedocs.io/)
-
+* **MADYS**: Toolit for isochronal fitting, age/mass estimation, detection probability map estimates. [Github](https://github.com/vsquicciarini/madys) [Docs](https://madys.readthedocs.io/en/latest/)
+* **spectres**: Resampling of spectra onto a new wavelength grid. [Github](https://github.com/ACCarnall/SpectRes) [Docs](https://spectres.readthedocs.io/en/latest/)
 
 ## Orbits and Dynamics
 
