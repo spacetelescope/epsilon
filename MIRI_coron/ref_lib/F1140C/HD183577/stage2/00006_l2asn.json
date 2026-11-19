@@ -1,0 +1,30 @@
+{
+    "asn_type": "None",
+    "asn_rule": "DMSLevel2bBase",
+    "version_id": null,
+    "code_version": "1.20.2",
+    "degraded_status": "No known degraded exposures in association.",
+    "program": "noprogram",
+    "constraints": "No constraints",
+    "asn_id": "a3001",
+    "asn_pool": "none",
+    "products": [
+        {
+            "name": "/volumes/dio/data5/JWST_RAW/mcourtoux/P3662/obs9/stage1/jw03662009001_04101_00006_mirimage",
+            "members": [
+                {
+                    "expname": "/volumes/dio/data5/JWST_RAW/mcourtoux/P3662/obs9/stage1/jw03662009001_04101_00006_mirimage_rate.fits",
+                    "exptype": "science"
+                },
+                {
+                    "expname": "/volumes/dio/data5/JWST_RAW/mcourtoux/P3662/obs10/stage1/jw03662010001_02101_00001_mirimage_rate.fits",
+                    "exptype": "background"
+                },
+                {
+                    "expname": "/volumes/dio/data5/JWST_RAW/mcourtoux/P3662/obs10/stage1/jw03662010001_02101_00002_mirimage_rate.fits",
+                    "exptype": "background"
+                }
+            ]
+        }
+    ]
+}

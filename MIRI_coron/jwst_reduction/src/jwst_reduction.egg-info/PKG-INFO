@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: jwst-reduction
+Version: 0.1.0
+Summary: Function for JWST data reduction
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: numpy
+Requires-Dist: scipy
+Requires-Dist: astropy
